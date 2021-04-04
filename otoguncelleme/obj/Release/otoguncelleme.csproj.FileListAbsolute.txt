@@ -1,0 +1,10 @@
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.Properties.Resources.resources
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.stayupdate.resources
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.csproj.GenerateResource.cache
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.csproj.CoreCompileInputs.cache
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\bin\Release\otoguncelleme.exe.config
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\bin\Release\otoguncelleme.exe
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\bin\Release\otoguncelleme.pdb
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.exe
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.pdb
+C:\Users\stay\source\repos\otoguncelleme\otoguncelleme\obj\Release\otoguncelleme.csprojAssemblyReference.cache
